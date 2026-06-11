@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **Deployed on Streamlit Cloud:** *(Add your Streamlit Cloud URL here)*
+🔗 **Deployed on Streamlit Cloud:** *(https://smart-student-companion-hjoghitk4fwc6edogpppjp.streamlit.app)*
 
 ---
 
@@ -178,25 +178,8 @@ fpdf2
 
 ---
 
-## 🔒 Security
 
-- The **GROQ API key** is stored in `.streamlit/secrets.toml` which is listed in `.gitignore` — it is **never pushed to GitHub**.
-- On Streamlit Cloud, the API key is added via the **Secrets Manager** in the dashboard.
 
----
 
-## 👨‍💻 Developer
 
-**Roll Number:** 22MC3028  
-**Project:** Task Classes — AI Study Helper  
-**Platform:** Streamlit Cloud  
 
----
-
-## 📄 License
-
-This project is built for educational purposes as part of coursework.
-
----
-
-*Powered by Groq LLaMA | Built for Students 🚀*
