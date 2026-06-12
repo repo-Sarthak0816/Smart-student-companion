@@ -12,9 +12,9 @@
 
 ## 🎯 Project Overview
 
-**Student Study Helper** is a comprehensive AI study companion built as a final project. It leverages the **Groq API** (LLaMA 3.1 8B model) to provide instant, class-appropriate explanations, quizzes, flashcards, summaries, resource recommendations, visual concept maps, and personalized study schedules — all in one place.
+**Student Study Helper** is a comprehensive AI study companion built as a final project. It provide instant, class-appropriate explanations, quizzes, flashcards, summaries, resource recommendations, visual concept maps, and personalized study schedules — all in one place.
 
-Students simply enter their class, subject, and topic — and the AI does the rest.
+Students simply enter their class, subject, and topic — and the AI platform does the rest.
 
 ---
 
